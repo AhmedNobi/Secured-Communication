@@ -1,0 +1,18 @@
+﻿  Assembling main.asm...
+main.asm(55): warning A6004: procedure argument or local not referenced : text
+main.asm(55): warning A6004: procedure argument or local not referenced : key
+main.asm(55): warning A6004: procedure argument or local not referenced : len
+main.asm(68): warning A6004: procedure argument or local not referenced : text
+main.asm(68): warning A6004: procedure argument or local not referenced : key
+main.asm(68): warning A6004: procedure argument or local not referenced : len
+main.asm(74): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(74): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(74): warning A6004: procedure argument or local not referenced : lpReserved
+     Creating library F:\GoogleDriveSync\[ASM 2019] Assembly Course\Staff\Projects\Templates\Secured-Communication\Debug\Project.lib and object F:\GoogleDriveSync\[ASM 2019] Assembly Course\Staff\Projects\Templates\Secured-Communication\Debug\Project.exp
+  Project.vcxproj -> F:\GoogleDriveSync\[ASM 2019] Assembly Course\Staff\Projects\Templates\Secured-Communication\Debug\Project.dll
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
